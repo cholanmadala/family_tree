@@ -1,0 +1,819 @@
+{
+	"name": "Madala Veerayya",
+	"gender": "male",
+	"metadata": {
+		"spouse": "No idea",
+		"gender": "female",
+		"location": "(Ask Peddayya)"
+	},
+	"familyDetail": "UnknownNumberSonFamily",
+	"children": [
+		{
+			"name": "Madala Seshayya",
+			"gender": "male",
+			"familyDetail": "UnknownNumberSonFamily",
+			"metadata": {
+				"spouse": "Madala Kotamma",
+				"gender": "female",
+				"location": "(Ask Peddayya)"
+			},
+			"children": [
+				{
+					"name": "Madala Kotilingam",
+					"gender": "male",
+					"familyDetail": "FirstSonFamily",
+					"metadata": {
+						"spouse": "No idea",
+						"location": "No idea"
+					},
+					"children": []
+				},
+				{
+					"name": "Madala Subba Raayudu",
+					"gender": "male",
+					"familyDetail": "SecondSonFamily",
+					"metadata": {
+						"spouse": "Madala Mahalakshmamma",
+						"gender": "female",
+						"location": "Kocherla (Guntur District)"
+					},
+					"children": [
+						{
+							"name": "Madala Seetaramayya",
+							"gender": "male",
+							"familyDetail": "FirstSonFamily",
+							"metadata": {
+								"spouse": "Madala Rosemma",
+								"gender": "female",
+								"location": "Vinukonda"
+							},
+							"children": [
+								{
+									"name": "Madala Siva",
+									"gender": "male",
+									"familyDetail": "FirstSonFamily",
+									"metadata": {
+										"spouse": "Madala Narayanamma",
+										"gender": "female",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Madala Manoj",
+											"gender": "male",
+											"familyDetail": "FirstSonFamily",
+											"metadata": {
+												"notes": " (Adopted. Second son of Madala Sai)",
+												"spouse": "Rajeswari",
+												"gender": "female",
+												"location": "Vinukonda"
+											},
+											"children": []
+										}
+									]
+								},
+								{
+									"name": "Madala Saibabu",
+									"gender": "male",
+									"metadata": {
+										"spouse": "Madala Lakshmi",
+										"gender": "female",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Madala Chaitanya",
+											"gender": "male",
+											"familyDetail": "FirstSonFamily",
+											"metadata": {
+												"spouse": "",
+												"gender": "female",
+												"location": "Hyderabad"
+											},
+											"children": []
+										},
+										{
+											"name": "Madala Akhil",
+											"gender": "male",
+											"familyDetail": "SecondSonFamily",
+											"metadata": {
+												"spouse": "",
+												"gender": "female",
+												"location": "Hyderabad"
+											},
+											"children": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Madala Satyanarayana",
+							"gender": "male",
+							"familyDetail": "SecondSonFamily",
+							"metadata": {
+								"spouse": "Madala Manneratnamma",
+								"gender": "female",
+								"location": "Vinukonda"
+							},
+							"children": [
+								{
+									"name": "Chandarapati Venkata Subbaratnam",
+									"gender": "female",
+									"familyDetail": "FirstDaughterFamily",
+									"metadata": {
+										"spouse": "Chandarapati Sankara Jagannatham",
+										"gender": "male",
+										"location": "Sattenapalli"
+									},
+									"children": [
+										{
+											"name": "Chandarapati SrinivasRao",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Chandarapati Aruna",
+												"gender": "female",
+												"location": "Sattenapalli"
+											},
+											"familyDetail": "FirstSonFamily",
+											"children": [
+												{
+													"name": "Chandarapati Dhanush",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Sattenapalli"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Chandarapati Lahari",
+													"gender": "female",
+													"metadata": {
+														"spouse": "",
+														"location": "Sattenapalli"
+													},
+													"familyDetail": "FirstDaughterFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Chandarapati Soma Sekhar",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Chandarapati Sunitha",
+												"gender": "female",
+												"location": "Sattenapalli"
+											},
+											"familyDetail": "SecondSonFamily",
+											"children": [
+												{
+													"name": "Chandarapati Bhavitha",
+													"gender": "female",
+													"metadata": {
+														"spouse": "",
+														"location": "Sattenapalli"
+													},
+													"familyDetail": "FirstDaughterFamily",
+													"children": []
+												},
+												{
+													"name": "Chandarapati Jagan",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Sattenapalli"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Polisetty Padma",
+											"gender": "female",
+											"metadata": {
+												"spouse": "Polisetty SrinivasRao",
+												"gender": "male",
+												"location": "Sattenapalli"
+											},
+											"familyDetail": "FirstDaughterFamily",
+											"children": [
+												{
+													"name": "Polisetty Tharun",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Sattenapalli"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Polisetty Bhargavi",
+													"gender": "female",
+													"metadata": {
+														"spouse": "",
+														"location": "NarasaraoPeta"
+													},
+													"familyDetail": "FirstDaughterFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Perumalla Vanaja Lakshmi",
+											"gender": "female",
+											"metadata": {
+												"spouse": "Perumalla Rajesh",
+												"gender": "male",
+												"location": "Piduguralla"
+											},
+											"familyDetail": "SecondDaughterFamily",
+											"children": []
+										}
+									]
+								},
+								{
+									"name": "Madala Rama Rao",
+									"gender": "male",
+									"familyDetail": "FirstSonFamily",
+									"metadata": {
+										"spouse": "Madala Indumathi",
+										"gender": "female",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Madala Srinivas Rao",
+											"gender": "male",
+											"familyDetail": "FirstSonFamily",
+											"metadata": {
+												"spouse": "",
+												"location": "Vinukonda"
+											},
+											"children": []
+										},
+										{
+											"name": "Madala Rajesh",
+											"gender": "male",
+											"familyDetail": "SecondSonFamily",
+											"metadata": {
+												"spouse": "Madala Tejaswini",
+												"gender": "female",
+												"location": "Hyderabad"
+											},
+											"children": [
+												{
+													"name": "Madala Atharv",
+													"gender": "male",
+													"familyDetail": "FirstSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"children": []
+												},
+												{
+													"name": "Madala Driya",
+													"gender": "female",
+													"familyDetail": "FirstDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Darisi Padma",
+											"gender": "female",
+											"familyDetail": "FirstDaughterFamily",
+											"metadata": {
+												"spouse": "Darisi SrinivasRao",
+												"gender": "male",
+												"location": "Coimbatore",
+												"NativeLocation": "Cheerala"
+											},
+											"children": [
+												{
+													"name": "Darisi Paavani",
+													"gender": "female",
+													"familyDetail": "FirstDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Coimbatore"
+													},
+													"children": []
+												},
+												{
+													"name": "Darisi Manasa",
+													"gender": "female",
+													"familyDetail": "SecondDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Coimbatore"
+													},
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Maddali Raadhika",
+											"gender": "female",
+											"familyDetail": "SecondDaughterFamily",
+											"metadata": {
+												"spouse": "Maddali Rajesh",
+												"gender": "male",
+												"location": "California"
+											},
+											"children": [
+												{
+													"name": "Maddali Sai Lohith",
+													"gender": "male",
+													"familyDetail": "FirstSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "California"
+													},
+													"children": []
+												},
+												{
+													"name": "Maddali Sai Saaketh",
+													"gender": "male",
+													"familyDetail": "SecondSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "California"
+													},
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "Madala Subba Rao",
+									"gender": "male",
+									"familyDetail": "SecondSonFamily",
+									"metadata": {
+										"spouse": "Madala Suguna",
+										"gender": "female",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Madala Manikanta Satyanarayana",
+											"gender": "male",
+											"familyDetail": "FirstSonFamily",
+											"metadata": {
+												"spouse": "Madala Shanti",
+												"gender": "female",
+												"location": "Hyderabad"
+											},
+											"children": [
+												{
+													"name": "Madala Jisha Srujana",
+													"gender": "female",
+													"familyDetail": "FirstDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"children": []
+												},
+												{
+													"name": "Madala Sourya",
+													"gender": "male",
+													"familyDetail": "FirstSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "Garre Venkata Suryakumari",
+									"gender": "female",
+									"familyDetail": "SecondDaughterFamily",
+									"metadata": {
+										"spouse": "Garre SrinivasRao",
+										"gender": "male",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Garre Venkata Suresh",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Garre Chandrakala",
+												"gender": "female",
+												"location": "Vinukonda"
+											},
+											"familyDetail": "FirstSonFamily",
+											"children": [
+												{
+													"name": "Garre Nikhil",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Garre Akshay",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "SecondSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Garre Ravindra Babu",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Garre Anuradha",
+												"gender": "female",
+												"location": "Vinukonda"
+											},
+											"familyDetail": "SecondSonFamily",
+											"children": [
+												{
+													"name": "Garre Harshita",
+													"gender": "female",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "FirstDaughterFamily",
+													"children": []
+												},
+												{
+													"name": "Garre Hitesh",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Bellamkonda Sumathi",
+											"gender": "female",
+											"metadata": {
+												"spouse": "Bellamkonda Prasad",
+												"gender": "male",
+												"location": "Vinukonda"
+											},
+											"familyDetail": "FirstDaughterFamily",
+											"children": [
+												{
+													"name": "Bellamkonda Surya Vamsi",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Bellamkonda Surya Pavan",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"familyDetail": "SecondSonFamily",
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "Munagala Venkata Suguna Bhramaramba",
+									"gender": "female",
+									"familyDetail": "ThirdDaughterFamily",
+									"metadata": {
+										"spouse": "Munagala Lakshmi Paanakala Kameswara Rao",
+										"gender": "male",
+										"location": "Guntur"
+									},
+									"children": [
+										{
+											"name": "Munagala Krishna Kumar",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Munagala Mohini",
+												"gender": "female",
+												"location": "Hyderabad"
+											},
+											"familyDetail": "FirstSonFamily",
+											"children": [
+												{
+													"name": "Munagala Havish",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Munagala Yajwin",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Hyderabad"
+													},
+													"familyDetail": "SecondSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Bangaru Himaja Lakshmi",
+											"gender": "female",
+											"metadata": {
+												"spouse": "Bangaru Maanikyala Rao (babu)",
+												"gender": "male",
+												"location": "Macherla"
+											},
+											"familyDetail": "FirstDaughterFamily",
+											"children": [
+												{
+													"name": "Bangaru Aaditya",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Macherla"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Bangaru Anish",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Macherla"
+													},
+													"familyDetail": "SecondSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Puvvada Sunitha",
+											"gender": "female",
+											"metadata": {
+												"spouse": "Puvvada Lakshmana Rao",
+												"gender": "male",
+												"location": "Gudivada"
+											},
+											"familyDetail": "SecondDaughterFamily",
+											"children": [
+												{
+													"name": "Puvvada Viswas",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Gudivada"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												},
+												{
+													"name": "Puvvada Yesaswi",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Gudivada"
+													},
+													"familyDetail": "SecondSonFamily",
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "Madala Radha Krishna",
+									"gender": "male",
+									"familyDetail": "ThirdSonFamily",
+									"metadata": {
+										"spouse": "Madala Lakshmi Annapurna",
+										"gender": "female",
+										"location": "Vinukonda"
+									},
+									"children": [
+										{
+											"name": "Madala Cholan Satyanarayana",
+											"gender": "male",
+											"familyDetail": "FirstSonFamily",
+											"metadata": {
+												"spouse": "Madala Dhanusha Lakshmi",
+												"gender": "female",
+												"location": "Vinukonda"
+											},
+											"children": [
+												{
+													"name": "Madala Durga Dhaatri",
+													"gender": "female",
+													"familyDetail": "FirstDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"children": []
+												},
+												{
+													"name": "Madala Keyur Pranavaram Radhakrishna",
+													"gender": "male",
+													"familyDetail": "FirstSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Madala Naveen Raghuveer",
+											"gender": "male",
+											"familyDetail": "SecondSonFamily",
+											"metadata": {
+												"spouse": "Madala Ramya Krishna",
+												"gender": "female",
+												"location": "Vinukonda"
+											},
+											"children": [
+												{
+													"name": "Madala Reyansh Radhakrishna",
+													"gender": "male",
+													"familyDetail": "FirstSonFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"children": []
+												},
+												{
+													"name": "Madala Lakshmi Yashika",
+													"gender": "female",
+													"familyDetail": "FirstDaughterFamily",
+													"metadata": {
+														"spouse": "",
+														"location": "Vinukonda"
+													},
+													"children": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "Maddula Venkata Dhana Lakshmi",
+									"gender": "female",
+									"familyDetail": "FourthDaughterFamily",
+									"metadata": {
+										"spouse": "Maddula Siva Prasad Rao",
+										"gender": "male",
+										"location": "vijayawada",
+										"nativeLocation": "Ponnuru"
+									},
+									"children": [
+										{
+											"name": "Maddula Kalyan Chakravarthy",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Maddula Anusha Sri",
+												"gender": "female",
+												"location": "Dubai"
+											},
+											"familyDetail": "FirstSonFamily",
+											"children": [
+												{
+													"name": "Maddula Saanvi",
+													"gender": "female",
+													"metadata": {
+														"spouse": "",
+														"location": "Dubai"
+													},
+													"familyDetail": "FirstDaughterFamily",
+													"children": []
+												},
+												{
+													"name": "Maddula Sanhit",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Dubai"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												}
+											]
+										},
+										{
+											"name": "Maddula Naveen Samrat",
+											"gender": "male",
+											"metadata": {
+												"spouse": "Maddula Priyanka",
+												"gender": "female",
+												"location": "Stockholm, Sweden"
+											},
+											"familyDetail": "SecondSonFamily",
+											"children": [
+												{
+													"name": "Maddula Mokshagna Advaith",
+													"gender": "male",
+													"metadata": {
+														"spouse": "",
+														"location": "Stockholm, Sweden"
+													},
+													"familyDetail": "FirstSonFamily",
+													"children": []
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Garre Seshamma",
+							"gender": "female",
+							"metadata": {
+								"spouse": "Garre Subbayya",
+								"gender": "male",
+								"native": "Guntur",
+								"location": "Vinukonda"
+							},
+							"children": [
+								{
+									"name": "Garre SrinivasRao",
+									"gender": "male",
+									"metadata": {
+										"notes": "(Adopted son from Garre Venkayya, Data in Madala's direct tree)",
+										"spouse": "Garre Venkata Suryakumari",
+										"location": "Vinukonda"
+									}
+								}
+							]
+						},
+						{
+							"name": "Motapothula Koteswari",
+							"gender": "female",
+							"metadata": {
+								"spouse": "Motapothula name(Ask Peddayya)",
+								"gender": "male",
+								"location": ""
+							},
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "Madala Appayya",
+					"gender": "male",
+					"familyDetail": "ThirdSonFamily",
+					"metadata": {
+						"spouse": "No idea",
+						"location": "No idea"
+					},
+					"children": []
+				},
+				{
+					"name": "Madala Veera Raghavulu",
+					"gender": "male",
+					"familyDetail": "FourthSonFamily",
+					"metadata": {
+						"spouse": "No idea",
+						"location": "No idea"
+					},
+					"children": []
+				}
+			]
+		}
+	]
+}
